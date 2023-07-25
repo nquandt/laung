@@ -1,0 +1,6 @@
+var helper = "I am a string";
+var hlper2 = 2;
+
+<Text attr="stuff">
+    <div />
+</Text>

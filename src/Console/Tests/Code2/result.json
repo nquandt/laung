@@ -1,0 +1,90 @@
+﻿[
+  {
+    "stringValue": "var",
+    "kind": "KEYWORD"
+  },
+  {
+    "stringValue": "helper",
+    "kind": "IDENTIFIER"
+  },
+  {
+    "stringValue": "=",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "\u0022I am a string\u0022",
+    "kind": "STRING"
+  },
+  {
+    "stringValue": ";",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "var",
+    "kind": "KEYWORD"
+  },
+  {
+    "stringValue": "hlper2",
+    "kind": "IDENTIFIER"
+  },
+  {
+    "stringValue": "=",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "2",
+    "kind": "INTEGER"
+  },
+  {
+    "stringValue": ";",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "\u003C",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "Text",
+    "kind": "IDENTIFIER"
+  },
+  {
+    "stringValue": "attr",
+    "kind": "IDENTIFIER"
+  },
+  {
+    "stringValue": "=",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "\u0022stuff\u0022",
+    "kind": "STRING"
+  },
+  {
+    "stringValue": "\u003E",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "\u003C",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "div",
+    "kind": "IDENTIFIER"
+  },
+  {
+    "stringValue": "/\u003E",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "\u003C/",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "Text",
+    "kind": "IDENTIFIER"
+  },
+  {
+    "stringValue": "\u003E",
+    "kind": "PUNCTUATOR"
+  }
+]

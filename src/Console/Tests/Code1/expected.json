@@ -1,0 +1,22 @@
+[
+    {
+      "stringValue": "var",
+      "kind": "KEYWORD"
+    },
+    {
+      "stringValue": "helper",
+      "kind": "IDENTIFIER"
+    },
+    {
+      "stringValue": "=",
+      "kind": "PUNCTUATOR"
+    },
+    {
+      "stringValue": "0",
+      "kind": "INTEGER"
+    },
+    {
+      "stringValue": ";",
+      "kind": "PUNCTUATOR"
+    }
+  ]

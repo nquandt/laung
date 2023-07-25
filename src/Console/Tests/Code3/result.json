@@ -1,0 +1,78 @@
+﻿[
+  {
+    "stringValue": "var",
+    "kind": "KEYWORD"
+  },
+  {
+    "stringValue": "helper",
+    "kind": "IDENTIFIER"
+  },
+  {
+    "stringValue": "=",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "\u0022bun\u0022",
+    "kind": "STRING"
+  },
+  {
+    "stringValue": "==",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "\u0022string\u0022",
+    "kind": "STRING"
+  },
+  {
+    "stringValue": ";",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "\u003C",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "Text",
+    "kind": "IDENTIFIER"
+  },
+  {
+    "stringValue": "attr",
+    "kind": "IDENTIFIER"
+  },
+  {
+    "stringValue": "=",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "{",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "helper",
+    "kind": "IDENTIFIER"
+  },
+  {
+    "stringValue": ".",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "ToString",
+    "kind": "IDENTIFIER"
+  },
+  {
+    "stringValue": "(",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": ")",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "}",
+    "kind": "PUNCTUATOR"
+  },
+  {
+    "stringValue": "/\u003E",
+    "kind": "PUNCTUATOR"
+  }
+]
